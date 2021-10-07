@@ -218,7 +218,9 @@ function showMovies(data) {
             </div>
             <div class="overview">
                 <h3>Overview</h3>
+                <p>
                 ${overview}
+                </p>
                 <br/> 
                 <button class="know-more" id="${id}">Know More</button
             </div>
